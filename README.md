@@ -98,7 +98,7 @@ software.
 
 Download this repository:
 
-    git clone https://github.com/openstack-charmers/openstack-on-lxd.git ~/openstack-on-lxd
+    git clone https://github.com/stanleyshly/openstack-on-lxd.git ~/openstack-on-lxd
 
 ## Set kernel options
 
